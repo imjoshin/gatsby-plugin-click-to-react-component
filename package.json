@@ -10,8 +10,7 @@
   "keywords": [
     "gatsby",
     "gatsby-plugin",
-    "click-to-component",
-    "scss"
+    "click-to-component"
   ],
   "license": "MIT",
   "main": "index.js",
