@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-click-to-react-component",
   "description": "Gatsby plugin to enable click-to-react-component on Gatsby sites",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Josh Johnson <jcjohnson77@gmail.com>",
   "bugs": {
     "url": "https://github.com/j0sh77/gatsby-plugin-click-to-react-component/issues"
@@ -27,6 +27,7 @@
     "@changesets/cli": "^2.22.0"
   },
   "scripts": {
+    "new-version": "changeset",
     "publish": "changeset publish"
   }
 }
