@@ -18,7 +18,7 @@ plugins: [
 ]
 ```
 
-2. Use as described in [click-to-component](https://github.com/ericclemmons/click-to-component#usage)'s docs!
+2. Use as described in [click-to-component](https://github.com/ericclemmons/click-to-component#features)'s docs!
 
 ## Configuration
 
