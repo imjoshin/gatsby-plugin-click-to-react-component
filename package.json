@@ -4,15 +4,9 @@
   "version": "1.0.0",
   "author": "Josh Johnson <jcjohnson77@gmail.com>",
   "bugs": {
-    "url": "https://github.com"
+    "url": "https://github.com/j0sh77/gatsby-plugin-click-to-react-component/issues"
   },
-  "dependencies": {
-
-  },
-  "devDependencies": {
-
-  },
-  "homepage": "https://github.com",
+  "homepage": "https://github.com/j0sh77/gatsby-plugin-click-to-react-component",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
@@ -27,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com"
+    "url": "https://github.com/j0sh77/gatsby-plugin-click-to-react-component"
   }
 }
