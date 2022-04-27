@@ -1,10 +1,10 @@
-# gatsby-plugin-click-to-component
+# gatsby-plugin-click-to-react-component
 
 Provides drop-in features for [click-to-component](https://github.com/ericclemmons/click-to-component).
 
 ## Install
 
-`npm install click-to-react-component gatsby-plugin-click-to-component`
+`npm install click-to-react-component gatsby-plugin-click-to-react-component`
 
 ## How to use
 
@@ -13,7 +13,7 @@ Provides drop-in features for [click-to-component](https://github.com/ericclemmo
 ```javascript:title=gatsby-config.js
 plugins: [
   ...
-  `gatsby-plugin-click-to-component`,
+  `gatsby-plugin-click-to-react-component`,
   ...
 ]
 ```
