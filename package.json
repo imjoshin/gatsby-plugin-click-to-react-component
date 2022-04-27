@@ -1,0 +1,32 @@
+{
+  "name": "gatsby-plugin-click-to-react-component",
+  "description": "Gatsby plugin to handle SCSS/Sass files",
+  "version": "1.0.0",
+  "author": "Josh Johnson <jcjohnson77@gmail.com>",
+  "bugs": {
+    "url": "https://github.com"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "homepage": "https://github.com",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "click-to-component",
+    "scss"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "gatsby": "^4.0.0",
+    "click-to-react-component": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com"
+  }
+}
